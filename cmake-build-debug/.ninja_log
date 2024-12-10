@@ -1,0 +1,6 @@
+# ninja log v6
+1	22	1730312128827990706	build.ninja	647cc682654bec4
+34	286	1730310562578000549	exe_simple_routine	2545f022cf02bfa9
+0	34	1730310562548000549	CMakeFiles/exe_simple_routine.dir/1-simple_routie/main_simple.c.o	57cabd8e72924622
+1	31	1730312020537993176	CMakeFiles/exe_bulletin_vote.dir/2_exo_bulletin_vote/main_exo_bulletin_vote.c.o	bb3b93c63bbcdb55
+31	307	1730312020567993177	exe_bulletin_vote	259c78b7b72b36a5

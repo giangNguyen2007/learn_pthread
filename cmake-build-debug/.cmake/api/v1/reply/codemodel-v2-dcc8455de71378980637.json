@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learn_pthread_c",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exe_bulletin_vote::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exe_bulletin_vote-Debug-4c056d5473660d04801a.json",
+					"name" : "exe_bulletin_vote",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exe_ressource_allocator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exe_ressource_allocator-Debug-8932071d4bc8035d99a8.json",
+					"name" : "exe_ressource_allocator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "exe_simple_routine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exe_simple_routine-Debug-85d848c28ed58d4fade4.json",
+					"name" : "exe_simple_routine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learn_pthread_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learn_pthread_c-Debug-3476ecb4db3b6d914312.json",
+					"name" : "learn_pthread_c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/ensimag/learn_pthread_c/cmake-build-debug",
+		"source" : "/root/ensimag/learn_pthread_c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,6 @@
+/root/ensimag/learn_pthread_c/cmake-build-debug/CMakeFiles/learn_pthread_c.dir
+/root/ensimag/learn_pthread_c/cmake-build-debug/CMakeFiles/exe_simple_routine.dir
+/root/ensimag/learn_pthread_c/cmake-build-debug/CMakeFiles/exe_bulletin_vote.dir
+/root/ensimag/learn_pthread_c/cmake-build-debug/CMakeFiles/exe_ressource_allocator.dir
+/root/ensimag/learn_pthread_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/ensimag/learn_pthread_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "twig",
+        "my_routine.h": "c",
+        "main_exo_bulletin_vote.h": "c"
+    }
+}
